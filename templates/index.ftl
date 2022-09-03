@@ -3,18 +3,16 @@
 	<#include "menu.ftl">
 
 	<div class="page-header">
-		<h1>Blog</h1>
+		<h1>Agile Guru</h1>
 	</div>
 	<#list posts as post>
   		<#if (post.status == "published")>
   			<a href="${post.uri}"><h1>${post.title}</h1></a>
-  			<p>${post.date?string("dd MMMM yyyy")}</p>
-  			<p>${post.body}</p>
+  			<p class="text-responsive text-justify">${post.date?string("dd MMMM yyyy")}</p>
+  			<p class="text-responsive text-justify">${post.body}</p>
   		</#if>
   	</#list>
 	
 	<hr />
 	
-	<p class="text-responsive text-justify">Older posts are available in the <a href="${content.rootpath}${config.archive_file}">archive</a>.</p>
-
 <#include "footer.ftl">
