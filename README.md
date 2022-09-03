@@ -1,13 +1,12 @@
 ## **Hi there 👋, my name is Guru**
 ### **I am Passionate about Tech & servers.**
-
 <br>
 
 ### **About**
 <hr>
 Senior Engineering Leader / SRE practitioner with 22+ years of alacrity / passion in delivering business applications & solutions. An amalgamation of proficiency in both application and infrastructure engineering with Tier-1 organisations. Proven in building and managing highly effective teams and capabilities from scratch or otherwise. Recruit / retain / help and run motivated teams of varied responsibilities delivering results within timelines, exceeding quality expectations.
 
-<br>
+<br><br>
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQE1UevowOG6Hg/profile-displaybackgroundimage-shrink_200_800/0/1655074889994?e=1667433600&v=beta&t=w-I_2dRi6QGydJuUftTNnPZygFZa4oBPuyN_oX5k_QA">
 
