@@ -10,7 +10,7 @@
 
 	<p><em>${content.date?string("dd MMMM yyyy")}</em></p>
 
-	<p>${content.body}</p>
+	<p class="text-responsive text-justify">${content.body}</p>
 
 	<hr />
 
